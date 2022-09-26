@@ -1,0 +1,18 @@
+2021-04-26 16:59:18,768 [12212] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-04-26 16:59:18,769 [12212] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-04-26 16:59:18,770 [12212] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-04-26 16:59:18,777 [12212] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-04-26 16:59:18,778 [12212] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-04-26 16:59:18,778 [12212] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-04-26 16:59:19,323 [12212] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-04-26 16:59:19,324 [12212] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-04-26 16:59:19,324 [12212] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-04-26 16:59:19,331 [12212] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-04-26 16:59:19,331 [12212] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-04-26 16:59:19,332 [12212] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-04-26 16:59:23,896 [12212] DEBUG    urllib3.connectionpool:205: [JupyterRequire] Starting new HTTP connection (1): api.worldbank.org:80
+2021-04-26 16:59:28,472 [12212] DEBUG    urllib3.connectionpool:393: [JupyterRequire] http://api.worldbank.org:80 "GET /v2/country/all?format=json&per_page=20000 HTTP/1.1" 200 113468
+2021-04-26 16:59:31,038 [12212] DEBUG    urllib3.connectionpool:205: [JupyterRequire] Starting new HTTP connection (1): api.worldbank.org:80
+2021-04-26 16:59:33,194 [12212] DEBUG    urllib3.connectionpool:393: [JupyterRequire] http://api.worldbank.org:80 "GET /v2/country/all/indicator/SP.POP.TOTL?mrv=1&format=jsonstat&per_page=20000 HTTP/1.1" 400 1647
+2021-04-26 17:03:32,887 [12212] DEBUG    urllib3.connectionpool:205: [JupyterRequire] Starting new HTTP connection (1): api.worldbank.org:80
+2021-04-26 17:03:33,345 [12212] DEBUG    urllib3.connectionpool:393: [JupyterRequire] http://api.worldbank.org:80 "GET /v2/country/all/indicator/SP.POP.TOTL?mrv=1&format=jsonstat&per_page=20000 HTTP/1.1" 400 1647
